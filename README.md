@@ -18,7 +18,7 @@ This Moodle plugin integrates the eeID authentication service into Moodle.
 
 ## Testing
 
-1. When testing the plugin, use test credentials according to the documentation [eeID](https://docs.eeid.ee/guide/test-environment.html).
+1. When testing the plugin, use test credentials according to the documentation [eeID](https://internetee.github.io/eeID-DOC/).
 2. Create test users for mID and smartID testing according to the documentation (ID numbers and phone number for mID) or allow user creation upon signing in.
 3. Test settings must be added to the configuration file in the Moodle installation root directory.
 
